@@ -14,7 +14,7 @@ Hello! I'm **Rafine**, an **Aspiring Data Scientist** who’s genuinely motivate
 
 ## 📚 Explore My Portfolio
 Discover my projects and learn more about my journey!  
-🔗 [**Portfolio Guide**](link-to-your-portfolio-guide)
+🔗 [**Portfolio Guide**](https://github.com/rafines01/Portfolio-Guide)
 
 ## 🛠️ Tools & Skills
 - **Languages:** Python, SQL
@@ -26,5 +26,5 @@ Discover my projects and learn more about my journey!
 
 ## 👋🏽 Connect with Me
 Let’s connect and collaborate!  
-🌐 [**Portfolio Website**](link-to-your-website)  
+🌐 [**Portfolio Website**](https://github.com/rafines01/Portfolio-Guide) 
 💼 [**LinkedIn**](link-to-your-linkedin)
