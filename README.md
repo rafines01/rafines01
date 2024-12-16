@@ -1,5 +1,8 @@
 # 🌟 Welcome to My GitHub!
-![My Image](.jpg)
+<div align="center">
+  <img src="san_francisco.jpg" alt="Rafine's Profile Picture" style="height:auto;"/>
+</div>
+
 ## 🙋🏽‍♂️ Introducing Myself
 Hello! I'm **Rafine**, an **Aspiring Data Scientist** who’s genuinely motivated to learn and push myself on every project. I love diving into complex problems and figuring out ways to make data-driven decisions that have a real impact. I thrive in fast-paced, collaborative settings and I’m always looking to bring my best to the team.
 
