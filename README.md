@@ -27,4 +27,4 @@ Discover my projects and learn more about my journey!
 ## 👋🏽 Connect with Me
 Let’s connect and collaborate!  
 🌐 [**Portfolio Website**](https://github.com/rafines01/Portfolio-Guide)     
-💼 [**LinkedIn**](link-to-your-linkedin)
+💼 [**LinkedIn**](https://www.linkedin.com/in/rafinesom-ucb/)
